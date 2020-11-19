@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">工具箱</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="tv_my">我的</string>
+    <string name="tv_play">播放</string>
+    <string name="tv_home">主页</string>
+
+    <string name="tv1">条目1</string>
+</resources>

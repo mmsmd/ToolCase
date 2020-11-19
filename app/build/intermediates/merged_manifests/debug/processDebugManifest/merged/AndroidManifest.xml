@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mao.mao"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/a"
+        android:label="@string/app_name"
+        android:testOnly="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        <activity
+            android:name="com.mao.ToolCase.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.mao.ToolCase.VideoActivity" >
+            <intent-filter>
+                <action android:name="com.mao.video" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.mao.ToolCase.WeathActivity" >
+            <intent-filter>
+                <action android:name="com.mao.weather" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.mao.ToolCase.RegisterActivity" >
+            <intent-filter>
+                <action android:name="com.mao.register" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.mao.ToolCase.IndexActivity" >
+            <intent-filter>
+                <action android:name="com.mao.index" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.mao.ToolCase.MusicActivity" >
+            <intent-filter>
+                <action android:name="com.mao.music" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.mao.ToolCase.AnimationActivity" >
+            <intent-filter>
+                <action android:name="com.mao.animation" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.mao.ToolCase.DateActivity" >
+            <intent-filter>
+                <action android:name="com.mao.date" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.mao.ToolCase.AppActivity" >
+            <intent-filter>
+                <action android:name="com.mao.app" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <service android:name="com.mao.ToolCase.MusicService" >
+        </service>
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.0.0" />
+    </application>
+
+</manifest>

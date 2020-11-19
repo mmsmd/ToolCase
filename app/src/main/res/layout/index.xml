@@ -1,0 +1,67 @@
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/GridLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:columnCount="4"
+    android:orientation="horizontal"
+    android:rowCount="6">
+
+    <TextView
+        android:layout_columnSpan="4"
+        android:layout_gravity="fill"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:text="工具箱"
+        android:textSize="50dp"
+        android:layout_marginTop="30dp"/>
+
+    <Button
+        android:id="@+id/weather"
+        android:layout_width="200dp"
+        android:layout_columnSpan="2"
+        android:layout_gravity="fill"
+        android:text="天气查询"
+        android:layout_marginTop="30dp"/>
+
+    <Button
+        android:id="@+id/video"
+        android:layout_width="182dp"
+        android:layout_columnSpan="2"
+        android:layout_gravity="fill"
+        android:text="视频推荐"
+        android:layout_marginTop="30dp"/>
+
+    <Button
+        android:id="@+id/music"
+        android:layout_columnSpan="2"
+        android:layout_gravity="fill"
+        android:text="音乐推荐"
+        android:layout_marginTop="30dp"/>
+
+    <Button
+        android:id="@+id/animation"
+        android:layout_columnSpan="2"
+        android:layout_gravity="fill"
+        android:text="动画"
+        android:layout_marginTop="30dp"/>
+
+    <Button
+        android:id="@+id/date"
+        android:layout_columnSpan="2"
+        android:layout_gravity="fill"
+        android:text="日期查询"
+        android:layout_marginTop="30dp"/>
+
+    <Button
+        android:id="@+id/news"
+        android:layout_columnSpan="2"
+        android:layout_gravity="fill"
+        android:text="应用市场"
+        android:layout_marginTop="30dp"/>
+
+
+
+
+
+
+</GridLayout>

@@ -1,0 +1,232 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:2:1-90:12
+INJECTED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:2:1-90:12
+INJECTED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:2:1-90:12
+INJECTED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:2:1-90:12
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/cfcbdb8da874791fef13982033c2e98d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/0a8df43c3f1ec67575f2698b9f5e6313/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/a882e46465e2606a305bc780c601b6ff/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/b54c7795bb5576bafa34d8d4456b11cb/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/f8552b647e93dfe70039318d4bafb2de/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/95907c8b302622f156deba25a161046d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/c340585287a5c80a4cbc7f39c5531c42/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/184c6d736bf4d4224e084fde155f09c4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/09814b2815689dc0aecd7bc6c2be4822/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:2:1-90:12
+INJECTED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:2:1-90:12
+INJECTED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:2:1-90:12
+	package
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:7:5-8:41
+INJECTED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:7:5-8:41
+INJECTED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:7:5-8:41
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/cfcbdb8da874791fef13982033c2e98d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/cfcbdb8da874791fef13982033c2e98d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/0a8df43c3f1ec67575f2698b9f5e6313/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/0a8df43c3f1ec67575f2698b9f5e6313/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/a882e46465e2606a305bc780c601b6ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/a882e46465e2606a305bc780c601b6ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/b54c7795bb5576bafa34d8d4456b11cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/b54c7795bb5576bafa34d8d4456b11cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/f8552b647e93dfe70039318d4bafb2de/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/f8552b647e93dfe70039318d4bafb2de/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/95907c8b302622f156deba25a161046d/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/95907c8b302622f156deba25a161046d/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/c340585287a5c80a4cbc7f39c5531c42/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/c340585287a5c80a4cbc7f39c5531c42/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/184c6d736bf4d4224e084fde155f09c4/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/184c6d736bf4d4224e084fde155f09c4/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/09814b2815689dc0aecd7bc6c2be4822/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/09814b2815689dc0aecd7bc6c2be4822/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:7:5-8:41
+INJECTED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:7:5-8:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/cfcbdb8da874791fef13982033c2e98d/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:8:9-38
+		INJECTED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:7:5-8:41
+		INJECTED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:10:2-78
+	android:name
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:10:19-75
+uses-permission#android.permission.INTERNET
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:11:22-64
+application
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:14:5-88:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/cfcbdb8da874791fef13982033c2e98d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/cfcbdb8da874791fef13982033c2e98d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/0a8df43c3f1ec67575f2698b9f5e6313/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/0a8df43c3f1ec67575f2698b9f5e6313/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/a882e46465e2606a305bc780c601b6ff/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/a882e46465e2606a305bc780c601b6ff/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/b54c7795bb5576bafa34d8d4456b11cb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/b54c7795bb5576bafa34d8d4456b11cb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/f8552b647e93dfe70039318d4bafb2de/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/f8552b647e93dfe70039318d4bafb2de/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/95907c8b302622f156deba25a161046d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/95907c8b302622f156deba25a161046d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/c340585287a5c80a4cbc7f39c5531c42/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/c340585287a5c80a4cbc7f39c5531c42/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/184c6d736bf4d4224e084fde155f09c4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/184c6d736bf4d4224e084fde155f09c4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/09814b2815689dc0aecd7bc6c2be4822/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/09814b2815689dc0aecd7bc6c2be4822/AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:16:9-35
+	android:allowBackup
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:18:9-65
+activity#com.mao.ToolCase.MainActivity
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:20:13-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:25:27-74
+activity#com.mao.ToolCase.VideoActivity
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:29:9-35:20
+	android:name
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:29:19-64
+intent-filter#action:name:com.mao.video+category:name:android.intent.category.DEFAULT
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:30:14-34:29
+action#com.mao.video
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:31:17-56
+	android:name
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:31:25-53
+category#android.intent.category.DEFAULT
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:33:17-76
+	android:name
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:33:27-73
+activity#com.mao.ToolCase.WeathActivity
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:36:9-42:20
+	android:name
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:36:19-64
+intent-filter#action:name:com.mao.weather+category:name:android.intent.category.DEFAULT
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:37:13-41:29
+action#com.mao.weather
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:38:17-58
+	android:name
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:38:25-55
+activity#com.mao.ToolCase.RegisterActivity
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:43:9-49:20
+	android:name
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:43:19-67
+intent-filter#action:name:com.mao.register+category:name:android.intent.category.DEFAULT
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:44:13-48:29
+action#com.mao.register
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:45:17-59
+	android:name
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:45:25-56
+activity#com.mao.ToolCase.IndexActivity
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:50:9-56:20
+	android:name
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:50:19-64
+intent-filter#action:name:com.mao.index+category:name:android.intent.category.DEFAULT
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:51:13-55:29
+action#com.mao.index
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:52:17-56
+	android:name
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:52:25-53
+activity#com.mao.ToolCase.MusicActivity
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:57:9-63:20
+	android:name
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:57:19-64
+intent-filter#action:name:com.mao.music+category:name:android.intent.category.DEFAULT
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:58:13-62:29
+action#com.mao.music
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:59:17-56
+	android:name
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:59:25-53
+activity#com.mao.ToolCase.AnimationActivity
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:64:9-70:20
+	android:name
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:64:19-68
+intent-filter#action:name:com.mao.animation+category:name:android.intent.category.DEFAULT
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:65:13-69:29
+action#com.mao.animation
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:66:17-60
+	android:name
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:66:25-57
+activity#com.mao.ToolCase.DateActivity
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:71:9-77:20
+	android:name
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:71:19-63
+intent-filter#action:name:com.mao.date+category:name:android.intent.category.DEFAULT
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:72:13-76:29
+action#com.mao.date
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:73:17-55
+	android:name
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:73:25-52
+activity#com.mao.ToolCase.AppActivity
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:78:9-84:20
+	android:name
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:78:19-62
+intent-filter#action:name:com.mao.app+category:name:android.intent.category.DEFAULT
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:79:13-83:29
+action#com.mao.app
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:80:17-54
+	android:name
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:80:25-51
+service#com.mao.ToolCase.MusicService
+ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:86:9-87:19
+	android:name
+		ADDED from /Users/maoshuo/AndroidStudioProjects/maoshuo/app/src/main/AndroidManifest.xml:86:18-62
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/cfcbdb8da874791fef13982033c2e98d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/0a8df43c3f1ec67575f2698b9f5e6313/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/0a8df43c3f1ec67575f2698b9f5e6313/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/a882e46465e2606a305bc780c601b6ff/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/a882e46465e2606a305bc780c601b6ff/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/b54c7795bb5576bafa34d8d4456b11cb/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/b54c7795bb5576bafa34d8d4456b11cb/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/f8552b647e93dfe70039318d4bafb2de/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/f8552b647e93dfe70039318d4bafb2de/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/95907c8b302622f156deba25a161046d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/95907c8b302622f156deba25a161046d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/c340585287a5c80a4cbc7f39c5531c42/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/c340585287a5c80a4cbc7f39c5531c42/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/184c6d736bf4d4224e084fde155f09c4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/184c6d736bf4d4224e084fde155f09c4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/09814b2815689dc0aecd7bc6c2be4822/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/09814b2815689dc0aecd7bc6c2be4822/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/cfcbdb8da874791fef13982033c2e98d/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0] /Users/maoshuo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/cfcbdb8da874791fef13982033c2e98d/AndroidManifest.xml:27:13-51

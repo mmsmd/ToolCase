@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#FFF" >
+
+    <TextView
+        android:id="@+id/tv_user"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="20dp"
+        android:text="音乐播放器"
+        android:textColor="#000"
+        android:textSize="50dp" />
+
+
+    <!-- 显示播放进度 -->
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="186dp">
+
+        <SeekBar
+            android:id="@+id/sb"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            />
+        <!-- 显示当前进度 -->
+
+        <TextView
+            android:id="@+id/tv_progress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="00:00"
+            android:textColor="#000" />
+
+        <!-- 显示总进度 -->
+
+        <TextView
+            android:id="@+id/tv_total"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="00:00"
+            android:textColor="#000" />
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="70dp"
+            android:onClick="play"
+            android:text="播放"
+            android:textColor="#FFF"
+            android:background="@drawable/button_frame_shape"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/sb"
+            android:layout_marginLeft="100dp"
+            android:layout_marginTop="50dp"
+            android:onClick="pausePlay"
+            android:text="暂停"
+            android:textColor="#FFF"
+            android:background="@drawable/button_frame_shape"/>
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/sb"
+            android:layout_marginLeft="198dp"
+            android:layout_marginTop="50dp"
+            android:onClick="continuePlay"
+            android:text="继续"
+            android:textColor="#FFF"
+            android:background="@drawable/button_frame_shape"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/sb"
+            android:layout_marginLeft="290dp"
+            android:layout_marginTop="32dp"
+            android:background="@drawable/button_frame_shape"
+            android:onClick="exit"
+            android:text="退出"
+            android:textColor="#FFF" />
+
+    </RelativeLayout>
+
+
+
+
+</LinearLayout>
